@@ -1,5 +1,6 @@
-- This code for Search Result Pages WordPress
-- API YouTube code in php-yt.php, put in search.php
+- This code for Search Result Page WordPress
+- Extract the zip file
+- API YouTube code in file php-yt.php, put it in search.php
 - Put fancymedia folder in root theme and call them in header.php
 
 &lt;script type=&quot;text/javascript&quot; src=&quot;&lt;?php bloginfo( &#039;template_url&#039; ); ?&gt;/fancymedia/jquery-1.8.0.min.js&quot;&gt;&lt;/script&gt;
